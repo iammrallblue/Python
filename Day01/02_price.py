@@ -2,9 +2,14 @@
 '''
 What to Learn
 
-    Variables: Store values with names (e.g., price = 100).
+Variables: Store values with names (e.g., price = 100).
 
-    Basic Operations: Addition (+), multiplication (*), etc.
+Data Types:
+    int: Whole numbers (e.g., quantity = 4).
+    float: Decimal numbers (e.g., price = 5.99).
+    str: Strings (e.g., "apple").
+
+Basic Operations: Addition (+), multiplication (*), etc.
 '''
 
 # price = 50
