@@ -1,7 +1,7 @@
 
 """  
 Day 4 - Part 2: Dictionaries
-File: Create cart_dict.py.
+File: Create cart_dict.py/16_dictionaries.py.
 
 Why: Dictionaries use key-value pairs (e.g., "name": "S Condom")—a step closer to real data structures like Django models.
 
